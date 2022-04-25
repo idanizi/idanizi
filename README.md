@@ -61,11 +61,13 @@ Full-Stack Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/idanizi/whatsapp-chrome-ext" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=idanizi&repo=whatsapp-chrome-ext&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/idanizi/ts-nodejs-express-react-redux-starter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=idanizi&repo=ts-nodejs-express-react-redux-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/idanizi/whatsapp-chrome-ext" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=idanizi&repo=whatsapp-chrome-ext&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/idanizi/ts-nodejs-express-react-redux-starter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=idanizi&repo=ts-nodejs-express-react-redux-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/idanizi/git-delete-interactive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=idanizi&repo=git-delete-interactive&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/idanizi/node-stress-tester" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=idanizi&repo=node-stress-tester&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
