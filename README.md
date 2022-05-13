@@ -72,3 +72,4 @@ Full-Stack Developer
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/idanizi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.patreon.com/bePatron?u=73191633" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
