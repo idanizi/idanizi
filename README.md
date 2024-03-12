@@ -12,10 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/uOFCju3KRFxwxScVfm/giphy.gif?cid=790b7611gm7g9g3r6bx8y4vuq94h8url5zg7xcw4ht1y8ns7&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -104,8 +100,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="30" alt="zig logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
 </div>
 
 ###
