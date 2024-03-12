@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Idan, but friends call me Easy (IZI). I'm a Software Engineer, from Tel Aviv.</h2>
+<h2 align="left">Hi 👋! My name is Idan, but friends call me Easy (IZI). I'm a Software Engineer, located in Singapore.</h2>
 
 ###
 
